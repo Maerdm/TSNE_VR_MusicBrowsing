@@ -2,8 +2,8 @@ using UnityEngine;
 
 public class TsneSongItem : AudioManager
 {
-    //string adress = "http://192.168.0.94:8080/TSNE_VR_Browsing/TSNE_VR_Music_Convert/";
-    string adress = "http://192.168.178.20:8080/TSNE_VR_Browsing/TSNE_VR_Music_Convert/";
+    //string adress = "http://ipadress:8080/TSNE_VR_Browsing/TSNE_VR_Music_Convert/";
+    string adress = "http://ipadress:8080/TSNE_VR_Browsing/TSNE_VR_Music_Convert/";
     Color color;
      
     public static bool hover;
